@@ -68,16 +68,6 @@ This project aims to build a fake news classifier that can accurately distinguis
 </div>
 
 
-
-## WebApp:
-
-### [https://fake-news-detection-nlp.herokuapp.com/](https://fake-news-detection-nlp.herokuapp.com/)
-- An end-to-end deployed tool which allows user to verify news articles in a click
-- Efficient and accurate tool for fact checking
-- A simple minimalistic user interface
-- It allows user to input news text along with title and author name (both optional fields)
-- ‘Load sample input’ button allows users to understand and test the app
-
 ## Technologies Used:
 1. Flask, HTML, CSS, JS for building the webapp
 2. Heroku for deploying the webapp
